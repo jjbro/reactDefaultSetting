@@ -1,2 +1,2 @@
 # reactDefaultSetting
-reactDefaultSetting info
+reactDefaultSetting infos
